@@ -1,3 +1,5 @@
 this is a pluto file
-we added a different line in the other copy
 
+we added a different line in the other copy
+this is added line bro
+we removed the conflict on this line
